@@ -1,0 +1,4 @@
+} else {
+            return n * calculateFactorial(n - 1);
+        }
+    }
